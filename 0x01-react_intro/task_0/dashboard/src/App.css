@@ -1,0 +1,36 @@
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+.App-header {
+  display: flex;
+  padding: 5px;
+  border-bottom: 5px solid red;
+
+}
+
+.App-header>p {
+  color: red;
+  font-size: 50px;
+  padding-top: 90px;
+}
+
+.App-body {
+ 
+  height: 80vh;
+  padding: 10px;
+}
+
+.App-footer {
+  border-top: 5px solid red;
+  text-align: center;
+
+}
